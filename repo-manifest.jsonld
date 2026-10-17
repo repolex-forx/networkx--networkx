@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/networkx/networkx/commit/abf2feda2252ee4e0d5a66964addf179225dfe76",
       "git:hexsha": "abf2feda2252ee4e0d5a66964addf179225dfe76",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/networkx/networkx/commit/0b6f608d46601fb180a0f42eaa8a9a2ca9a42ecf",
